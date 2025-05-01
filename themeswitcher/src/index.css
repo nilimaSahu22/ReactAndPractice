@@ -1,1 +1,6 @@
 @import "tailwindcss";
+
+/* Enable dark mode using the .dark class */
+.dark {
+    color-scheme: dark;
+  }
